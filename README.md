@@ -19,6 +19,9 @@ It contains the following subfolders:
 1. `EE` (Enriched Environment)
 2. `RI` (Rat Inventory)
 
+The raw files have been stored using [Git's Large File Support](https://help.github.com/en/github/managing-large-files/versioning-large-files).
+Please see the respective instructions to clone and check out the repository and the raw files.
+
 ## Questions, errors, issues 
 
 Please contact the authors:
