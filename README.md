@@ -25,5 +25,6 @@ Please see the respective instructions to clone and check out the repository and
 ## Questions, errors, issues 
 
 Please contact the authors:
-Canan Has   -   cananhas {at} gmail.com
-Robert Ahrends   -   robert.ahrends {at} univie.ac.at
+
+- Canan Has -- cananhas {at} gmail.com
+- Robert Ahrends -- robert.ahrends {at} univie.ac.at
