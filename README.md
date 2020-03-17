@@ -13,11 +13,11 @@ associated but not screened lipids: Lipid; associated pathways: Pathway; related
 
 ## Raw data
 
-The folder `Shotgun_Lipidomics_Neurolipidomics` contains raw data (from Thermo QExactive HF) from shotgun lipidomics.
+The folder `Shotgun_Lipidomics_Neurolipidomics` contains raw data from shotgun lipidomics experiments of the publication "Multiomics of synaptic junctions reveal their lipid inventory and altered lipid signaling in environmental enrichment".
 It contains the following subfolders:
 
-1. `EE` (Enriched Environment)
-2. `RI` (Rat Inventory)
+1. `EE` (Enriched Environment) : Shotgun lipidomics measurements of synaptic cleft tissue of mouse brain at Thermo Fisher QExactive Plus. The measurements were performed for control and enriched environment samples. 
+2. `RI` (Rat Inventory): Shotgun lipidomics measurements of synaptic cleft, synaptosome and heavy membrane (P2) fractions of rat brain by Thermo Fisher QExactive HF. 
 
 The raw files have been stored using [Git's Large File Support](https://help.github.com/en/github/managing-large-files/versioning-large-files).
 Please see the respective instructions to clone and check out the repository and the raw files.
